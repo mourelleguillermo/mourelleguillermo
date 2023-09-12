@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm an IT student at UCU.</h3>
+User stats unavailable due to GitHub API rate limiting.
 
 ###
 
