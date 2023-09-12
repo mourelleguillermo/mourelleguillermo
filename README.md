@@ -20,16 +20,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="c++ logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="c sharp logo"  />
 </div>
 
 ###
 
 <img align="left" height="175" src="https://cdn.discordapp.com/attachments/929824251735847013/1103311045243707482/Tumblr_l_700786947815444.jpg"  />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mourelleguillermo/count.svg?"  />
-</div>
 
 ###
