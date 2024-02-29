@@ -1,7 +1,3 @@
-<h1 align="left">Hi 👋! My name is Guillermo!</h1>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mourelleguillermo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mourelleguillermo&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
